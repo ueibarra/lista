@@ -1,28 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/TeleamazonasEcuador/picture?width=200&height=200" group-title="" tvg-name="",TeleAmazonas
-https://blackghost.live/play/codeplus3-731.php?c=33934
-#EXTINF:-1 group-title="",Ecuavisa
-https://blackghost.live/play/codeplus3-731.php?c=33914
-#EXTINF:-1 group-title="",TVC
-https://blackghost.live/play/codeplus3-731.php?c=33937
-#EXTINF:-1 group-title="",Tc Televisión
-https://blackghost.live/play/codeplus3-731.php?c=33932
-#EXTINF:-1 group-title="",Telerama
-http://181.175.114.83:8080/livestream/stream.m3u8
-#EXTINF:-1 group-title="",Canal Uno
-https://blackghost.live/play/codeplus4-731.php?c=1427
-#EXTINF:-1 group-title="",RTS
-https://blackghost.live/play/codeplus3-731.php?c=33928
-#EXTINF:-1 group-title="",RTU
-https://59c3c7bda15f4.streamlock.net:444/rtutv/smil:rtutv.smil/chunklist_w248976673_b608000_sleng.m3u8?WebM3UCL
-#EXTINF:-1 group-title="",Oromar TV FHD
-https://blackghost.live/play/codeplus4-731.php?c=1410
-#EXTINF:-1 group-title="",Canela TV
-https://59d39900ebfb8.streamlock.net/canelatv/canelatv/playlist.m3u8
-#EXTINF:-1 group-title="",Ecuador TV FHD
-https://blackghost.live/play/codeplus4-731.php?c=1400
-#EXTINF:-1 group-title="",RecTv
-https://video.misistemareseller.com/Jonnytv/Jonnytv/chunklist_w1939711112.m3u8?WebM3UCL
 #EXTINF:-1 group-title="",Puruwa
 https://srv.panelcast.net/puruwalive/puruwalive/chunklist_w65657588.m3u8?WebM3UCL
 #EXTINF:-1 group-title="",UCSG 
